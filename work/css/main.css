@@ -1,8 +1,15 @@
 body {
-  font-family: sans-serif;
+  font-family: Roboto;
+  font-weight: 900;
 }
 
 video {
   max-width: 100%;
   width: 320px;
+  height: 280px;
+}
+
+#videoLayout{
+	max-width: 100%;
+	width: 700px;
 }
